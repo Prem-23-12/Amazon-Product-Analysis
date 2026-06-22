@@ -90,7 +90,7 @@ All generated charts are stored in the `output/` folder.
 ---
 
 ## Project Structure
-
+"""
 Amazon-Product-Analysis/
 
 ├── data/
@@ -111,7 +111,7 @@ Amazon-Product-Analysis/
 ├── .gitignore
 
 └── README.md
-
+"""
 ---
 
 ## Installation
