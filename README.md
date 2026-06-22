@@ -90,29 +90,28 @@ All generated charts are stored in the `output/` folder.
 ---
 
 ## Project Structure
-"""
-Amazon-Product-Analysis/
 
+```
+Amazon-Product-Analysis/
+│
 ├── data/
 │   └── amazon.csv
-
+│
 ├── analysis/
 │   └── analysis.py
-
+│
 ├── output/
 │   ├── top_categories.png
 │   ├── ratings_distribution.png
 │   ├── top_rated_products.png
 │   ├── top_discounted_products.png
 │   └── insights.txt
-
+│
 ├── requirements.txt
-
 ├── .gitignore
-
 └── README.md
-"""
----
+```
+
 
 ## Installation
 
