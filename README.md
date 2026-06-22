@@ -159,7 +159,6 @@ The generated charts and insights will be saved in the `output/` directory.
 
 ## Future Improvements
 
-* Interactive Dashboard using Streamlit
 * Advanced Visualizations using Seaborn
 * Sentiment Analysis on Customer Reviews
 * Machine Learning-based Product Recommendation System
