@@ -1,0 +1,6 @@
+Amazon Product Analysis
+=======================
+
+Total Products: 1465
+Average Rating: 4.10
+Most Common Category: Computers&Accessories|Accessories&Peripherals|Cables&Accessories|Cables|USBCables
