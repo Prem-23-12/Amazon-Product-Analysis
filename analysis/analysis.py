@@ -6,7 +6,7 @@ import os
 # create output folder
 os.makedirs("output", exist_ok=True)
 
-df = pd.read_csv("data//amazon.csv")
+df = pd.read_csv("data/amazon.csv")
 
 print("--------------- Amazon Product Analysis ----------------")
 
